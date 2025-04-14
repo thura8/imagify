@@ -1,7 +1,7 @@
 import React from "react";
 
 const BuyCredit = () => {
-  return <div>Buy redit</div>;
+  return <div>Buy credit</div>;
 };
 
 export default BuyCredit;
